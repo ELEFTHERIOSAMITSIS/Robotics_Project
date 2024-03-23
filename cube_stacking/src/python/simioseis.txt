@@ -1,0 +1,9 @@
+append --> Prosthetei stoixeia se arrays, listes ktl
+
+
+Dokimes piece by piece.
+
+https://blog.magnum.graphics/guest-posts/using-dart-to-control-a-robotic-manipulator/
+
+
+https://es.mathworks.com/help/robotics/ug/get-transformations-for-manipulator-bodies.html
